@@ -1,6 +1,1 @@
-*.gem
-.bundle
-.sass-cache
-_site
-Gemfile.lock
-*.code-workspace
+node_modules
