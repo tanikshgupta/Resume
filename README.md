@@ -4,11 +4,11 @@ A single-page static website with a fixed sidebar, smooth scrolling navigation, 
 
 ## Introduction
 
-This is a simple yet elegant website created with the help of a free Bootstrap template. It's fully responsive and easy to adapt for your own purposes. You just need some skills in HTML, Bootstrap 4, and CSS3 to personalize it. A working contact form is included. 
+This is a simple yet elegant website created with the help of a free Bootstrap template. It's fully responsive and easy to adapt for various purposes. 
 
 ## Live Preview
 
-<p><a href="https://bootstrap4resume.deployonfriday.net/" target="_blank"> <img src="https://github.com/DrSavvina/Bootstrap4Resume/blob/master/preview1.png"></a></p>
+<p><a href="https://tanikshgupta.tech" target="_blank"> </a></p>
 
 ## Technologies Used
 
@@ -22,11 +22,8 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 
 ## Sources
 
-* https://github.com/BlackrockDigital/startbootstrap-resume
 * https://fontawesome.com
 * http://konpa.github.io/devicon/
 * https://formspree.io/
 
-## How to Use it
 
-After downloading, you can edit the HTML and CSS files to make the changes you want and personalize the template. Check your changes opening the index.html in your browser.
