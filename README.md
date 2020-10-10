@@ -1,16 +1,16 @@
-# Bootstrap4Resume
+# 🎆 Bootstrap4Resume
 
 A single-page static website with a fixed sidebar, smooth scrolling navigation, and content sections. Great for an elegant resume or portfolio. Mobile-friendly. 
 
-## Introduction
+## 💡 Introduction
 
 This is a simple yet elegant website created with the help of a free Bootstrap template. It's fully responsive and easy to adapt for various purposes. 
 
-## Live Preview
+## 🎉 Live Preview
 
 <p><a href="https://tanikshgupta.tech" target="_blank">Click here to view </a></p>
 
-## Technologies Used
+## 🚧 Technologies Used
 
 * HTML5 & CSS3
 * Bootstrap 4
@@ -20,7 +20,7 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 * Devicon
 * Google Fonts
 
-## Sources
+## 📃 Sources
 
 * https://fontawesome.com
 * http://konpa.github.io/devicon/
