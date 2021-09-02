@@ -8,7 +8,7 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 
 ## 🎉 Live Preview
 
-<p><a href="https://tanikshgupta.tech" target="_blank">Click here to view </a></p>
+<p><a href="https://tanikshgupta.me/" target="_blank">Click here to view </a></p>
 
 ## 🚧 Technologies Used
 
